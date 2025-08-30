@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Saikat Kr De
-**A passionate Robotics Engineer || Photo Editing || Embedded Systems || Networking**
+**A passionate Robotics Engineer || Photo Editor**
 
 Email Me 👉 ✉️ **desaikat590@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
