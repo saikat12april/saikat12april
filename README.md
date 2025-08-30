@@ -1,4 +1,4 @@
-# 💫 Hi 👋, I'm Imran Alam
+# 💫 Hi 👋, I'm Saikat Kr De
 **A passionate Robotics Engineer || Photo Editing || Embedded Systems || Networking**
 
 Email Me 👉 ✉️ **desaikat590@gmail.com** For Collaboration/Project or Anything Else. 😊😊
