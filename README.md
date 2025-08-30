@@ -1,93 +1,26 @@
-<p align="center">
-  <!-- Neon SVG Header -->
-  <svg width="100%" height="360" viewBox="0 0 1200 360" xmlns="http://www.w3.org/2000/svg">
-    <defs>
-      <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-        <stop offset="0%" stop-color="#0b0f1a"/>
-        <stop offset="100%" stop-color="#111827"/>
-      </linearGradient>
-      <linearGradient id="neon" x1="0" y1="0" x2="1" y2="0">
-        <stop offset="0%" stop-color="#00FFF0"/>
-        <stop offset="50%" stop-color="#7C3AED"/>
-        <stop offset="100%" stop-color="#FF00E6"/>
-      </linearGradient>
-      <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
-        <feGaussianBlur stdDeviation="6" result="blur"/>
-        <feMerge>
-          <feMergeNode in="blur"/>
-          <feMergeNode in="SourceGraphic"/>
-        </feMerge>
-      </filter>
-      <filter id="outer-glow" x="-80%" y="-80%" width="260%" height="260%">
-        <feGaussianBlur stdDeviation="18" result="glow1"/>
-        <feGaussianBlur stdDeviation="36" result="glow2"/>
-        <feMerge>
-          <feMergeNode in="glow2"/>
-          <feMergeNode in="glow1"/>
-          <feMergeNode in="SourceGraphic"/>
-        </feMerge>
-      </filter>
-    </defs>
+<h1 align="center">💫 𝓗𝓲 👋, 𝓘'𝓶 𝓢𝓪𝓲𝓴𝓪𝓽 𝓚𝓻 𝓓𝓮 💫</h1>
 
-    <rect width="1200" height="360" fill="url(#bg)"/>
-    <g opacity="0.18">
-      <circle cx="1100" cy="60" r="140" fill="#7C3AED"/>
-      <circle cx="140" cy="300" r="180" fill="#00FFF0"/>
-      <circle cx="900" cy="310" r="120" fill="#FF00E6"/>
-    </g>
-
-    <text x="50%" y="42%" text-anchor="middle"
-          font-family="Poppins, Segoe UI, Roboto, Helvetica, Arial, sans-serif"
-          font-size="64" font-weight="800" fill="url(#neon)" filter="url(#outer-glow)">
-      💫 Hi, I'm Saikat Kr De
-    </text>
-
-    <text x="50%" y="60%" text-anchor="middle"
-          font-family="Poppins, Segoe UI, Roboto, Helvetica, Arial, sans-serif"
-          font-size="36" font-weight="700" fill="url(#neon)" filter="url(#glow)">
-      A passionate Robotics Engineer ││ Photo Editor
-    </text>
-
-    <g filter="url(#glow)">
-      <rect x="380" y="235" rx="14" ry="14" width="440" height="46"
-            fill="none" stroke="url(#neon)" stroke-width="2"/>
-      <text x="600" y="266" text-anchor="middle"
-            font-family="Poppins, Segoe UI, Roboto, Helvetica, Arial, sans-serif"
-            font-size="18" fill="#E5E7EB">
-        ✉️ desaikat590@gmail.com
-      </text>
-    </g>
-  </svg>
-</p>
+<h3 align="center">⚡ 𝓐 𝓹𝓪𝓼𝓼𝓲𝓸𝓷𝓪𝓽𝓮 𝓡𝓸𝓫𝓸𝓽𝓲𝓬𝓼 𝓔𝓷𝓰𝓲𝓷𝓮𝓮𝓻 ││ 𝓟𝓱𝓸𝓽𝓸 𝓔𝓭𝓲𝓽𝓸𝓻 ⚡</h3>
 
 ---
 
-<p align="center">
-  <a href="mailto:desaikat590@gmail.com">
-    <img alt="Email Me" src="https://img.shields.io/badge/Email-Contact-7C3AED?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <img alt="Focus" src="https://img.shields.io/badge/Robotics-Engineer-00FFF0?style=for-the-badge&logo=opencv&logoColor=black">
-  <img alt="Also" src="https://img.shields.io/badge/Photo-Editor-FF00E6?style=for-the-badge&logo=adobephotoshop&logoColor=white">
-</p>
 
----
 
-### 🌱 Currently Learning
+
+
+### 🌱 𝓒𝓾𝓻𝓻𝓮𝓷𝓽𝓵𝔂 𝓛𝓮𝓪𝓻𝓷𝓲𝓷𝓰
 - **B.Tech @ VIT (Chennai)**
-- **Networking**: VLAN isolation, packet tracing, and practical lab setups
 
-### 🤝 Looking For
-- Help & collaboration on **VLAN Isolation** and **Packet Tracing**
-- Open-source robotics tools and simple vision pipelines
 
-### 💬 Ask Me About
+### 💬 𝓐𝓼𝓴 𝓜𝓮 𝓐𝓫𝓸𝓾𝓽
 - **Collaboration** • **Tech Support** • **Robotics mini-projects** • **Photo editing tips**
 
-### 📬 Reach Me
+### 📬 𝓡𝓮𝓪𝓬𝓱 𝓜𝓮
 - ✉️ **desaikat590@gmail.com**
 
-### ⚡ Fun Fact
+### ⚡ 𝓕𝓾𝓷 𝓕𝓪𝓬𝓽
 I **Love Tech** and **Tech Loves Me** 😄
+
 
 
 ## 🌐 Socials:
