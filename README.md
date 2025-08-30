@@ -1,6 +1,6 @@
 # 💫 Hi 👋, I'm Saikat Kr De 
 **A passionate Robotics Engineer || Photo Editor** 
-Email Me 👉 ✉️ **desaikat590@gmail.com** For Collaboration/Project or Anything Else. 😊😊 
+- Email Me 👉 ✉️ **desaikat590@gmail.com** For Collaboration/Project or Anything Else. 😊😊 
 - 🌱 **I’m currently learning:** B.Tech in VIT(Chennai)
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** desaikat590@gmail.com
