@@ -1,25 +1,10 @@
-<h1 align="center">💫 𝓗𝓲 👋, 𝓘'𝓶 𝓢𝓪𝓲𝓴𝓪𝓽 𝓚𝓻 𝓓𝓮 💫</h1>
-
-<h3 align="center">⚡ 𝓐 𝓹𝓪𝓼𝓼𝓲𝓸𝓷𝓪𝓽𝓮 𝓡𝓸𝓫𝓸𝓽𝓲𝓬𝓼 𝓔𝓷𝓰𝓲𝓷𝓮𝓮𝓻 ││ 𝓟𝓱𝓸𝓽𝓸 𝓔𝓭𝓲𝓽𝓸𝓻 ⚡</h3>
-
----
-
-
-
-
-
-### 🌱 𝓒𝓾𝓻𝓻𝓮𝓷𝓽𝓵𝔂 𝓛𝓮𝓪𝓻𝓷𝓲𝓷𝓰
-- **B.Tech @ VIT (Chennai)**
-
-
-### 💬 𝓐𝓼𝓴 𝓜𝓮 𝓐𝓫𝓸𝓾𝓽
-- **Collaboration** • **Tech Support** • **Robotics mini-projects** • **Photo editing tips**
-
-### 📬 𝓡𝓮𝓪𝓬𝓱 𝓜𝓮
-- ✉️ **desaikat590@gmail.com**
-
-### ⚡ 𝓕𝓾𝓷 𝓕𝓪𝓬𝓽
-I **Love Tech** and **Tech Loves Me** 😄
+# 💫 Hi 👋, I'm Saikat Kr De 
+**A passionate Robotics Engineer || Photo Editor** 
+Email Me 👉 ✉️ **desaikat590@gmail.com** For Collaboration/Project or Anything Else. 😊😊 
+- 🌱 **I’m currently learning:** B.Tech in VIT(Chennai)
+- 💬 **Ask me about:** Collaboration, Tech Support
+- 📫 **How to reach me:** desaikat590@gmail.com
+- ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
 
 
